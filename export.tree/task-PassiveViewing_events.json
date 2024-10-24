@@ -1,0 +1,59 @@
+{  
+  "onset": {
+  "Description": "Event onset",
+  "Units": "milisecond"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "milisecond"
+  },
+  "trial_type": {
+    "Description": "BrainVision event number and type (string)",
+    "Levels": {
+      "S11": "Partially occluded 4 items onset cue",
+      "S21": "Partially occluded 32 items onset cue",
+      "S111": "Uncovered 0 items after partially occluded 4 items onset cue",
+      "S112": "Uncovered 1 items after partially occluded 4 items onset cue",
+      "S113": "Uncovered 2 items after partially occluded 4 items onset cue",
+      "S114": "Uncovered 4 items after partially occluded 4 items onset cue",
+      "S115": "Uncovered 28 items after partially occluded 4 items onset cue",
+      "S116": "Uncovered 30 items after partially occluded 4 items onset cue",
+      "S117": "Uncovered 31 items after partially occluded 4 items onset cue",
+      "S118": "Uncovered 32 items after partially occluded 4 items onset cue",
+      "S121": "Uncovered 0 items after partially occluded 32 items onset cue",
+      "S122": "Uncovered 1 items after partially occluded 32 items onset cue",
+      "S123": "Uncovered 2 items after partially occluded 32 items onset cue",
+      "S124": "Uncovered 4 items after partially occluded 32 items onset cue",
+      "S125": "Uncovered 28 items after partially occluded 32 items onset cue",
+      "S126": "Uncovered 30 items after partially occluded 32 items onset cue",
+      "S127": "Uncovered 31 items after partially occluded 32 items onset cue",
+      "S128": "Uncovered 32 items after partially occluded 32 items onset cue",
+      "S211": "Uncovered 0 items after partially occluded 4 items offset cue",
+      "S212": "Uncovered 1 items after partially occluded 4 items offset cue",
+      "S213": "Uncovered 2 items after partially occluded 4 items offset cue",
+      "S214": "Uncovered 4 items after partially occluded 4 items offset cue",
+      "S215": "Uncovered 28 items after partially occluded 4 items offset cue",
+      "S216": "Uncovered 30 items after partially occluded 4 items offset cue",
+      "S217": "Uncovered 31 items after partially occluded 4 items offset cue",
+      "S218": "Uncovered 32 items after partially occluded 4 items offset cue",
+      "S221": "Uncovered 0 items after partially occluded 32 items offset cue",
+      "S222": "Uncovered 1 items after partially occluded 32 items offset cue",
+      "S223": "Uncovered 2 items after partially occluded 32 items offset cue",
+      "S224": "Uncovered 4 items after partially occluded 32 items offset cue",
+      "S225": "Uncovered 28 items after partially occluded 32 items offset cue",
+      "S226": "Uncovered 30 items after partially occluded 32 items offset cue",
+      "S227": "Uncovered 31 items after partially occluded 32 items offset cue",
+      "S228": "Uncovered 32 items after partially occluded 32 items offset cue",
+      "S98": "Experiment start cue",
+      "S99": "Experiment end cue",
+      "S95": "Fixation cross cue"
+    }
+  },
+  "value": {
+    "Description": "Event value (string)"
+  },
+  "sample": {
+    "Description": "Event onset",
+    "Units": "milisecond"
+  }
+}
