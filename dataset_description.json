@@ -1,5 +1,5 @@
 {
-    "Name": "EEG responses to the number of objects in partially occluded and uncovered scenes",
+    "Name": "Electroencephalographic responses to the number of objects in partially occluded and uncovered scenes",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
